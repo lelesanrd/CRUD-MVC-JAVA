@@ -1,0 +1,5 @@
+com\covid\datos\PersonaDao.class
+com\covid\datos\PersonaDaoImpl.class
+com\covid\conexion\Conexion.class
+com\covid\domain\Persona.class
+com\covid\controlador\Controlador.class
