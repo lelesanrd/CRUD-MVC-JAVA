@@ -27,23 +27,25 @@ Como parte de nuestro proceso de selección impartimos una asignación de progra
 <img src="ScreentShots/1.png" align="center" height="500px" width="500px"/>
 
 # RESUMEN
-<img src="ScreentShots/2.png" align="center" height="500px" width="500px"/>
+<img src="ScreentShots/2.png" align="center" height="500px" width="800px"/>
 
 ## EDITAR o ACTUALIZAR
-<img src="ScreentShots/3.png" align="center" height="500px" width="500px"/>
+<img src="ScreentShots/3.png" align="center" height="500px" width="600px"/>
 
 ## ADD / AGREGAR
-<img src="ScreentShots/4.png" align="center" height="500px" width="500px"/>
+<img src="ScreentShots/4.png" align="center" height="500px" width="600px"/>
 
 ## PRUEBA BBDD
-<img src="ScreentShots/5.png" align="center" height="500px" width="500px"/>
+<img src="ScreentShots/5.png" align="center" height="500px" width="600px"/>
 
 ## ESTRUCTURA BBDD
-<img src="ScreentShots/6.png" align="center" height="500px" width="500px"/>
+<img src="ScreentShots/6.png" align="center" height="500px" width="600px"/>
 
 ### Resources:
-Lombok
-MySQL
-JAVA (JSP)
-Bootstrap
-CRUD DUMMIE
+Lombok,
+MySQL,
+JAVA (JSP),
+Bootstrap,
+Patrones de diseño: MVC y DAO.
+
+3. CRUD DUMMIE
