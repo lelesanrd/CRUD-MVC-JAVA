@@ -24,22 +24,22 @@ Como parte de nuestro proceso de selección impartimos una asignación de progra
 # Screen Examples:
 
 # INTRO
-<img src="ScreentShots/1.png" align="center" height="500px" width="282px"/>
+<img src="ScreentShots/1.png" align="center" height="500px" width="500px"/>
 
 # RESUMEN
-<img src="ScreentShots/2.PNG" align="center" height="500px" width="282px"/>
+<img src="ScreentShots/2.png" align="center" height="500px" width="500px"/>
 
 ## EDITAR o ACTUALIZAR
-<img src="ScreentShots/3.PNG" align="center" height="500px" width="282px"/>
+<img src="ScreentShots/3.png" align="center" height="500px" width="500px"/>
 
 ## ADD / AGREGAR
-<img src="ScreentShots/4.PNG" align="center" height="500px" width="282px"/>
+<img src="ScreentShots/4.png" align="center" height="500px" width="500px"/>
 
 ## PRUEBA BBDD
-<img src="ScreentShots/5.PNG" align="center" height="500px" width="282px"/>
+<img src="ScreentShots/5.png" align="center" height="500px" width="500px"/>
 
 ## ESTRUCTURA BBDD
-<img src="ScreentShots/6.PNG" align="center" height="500px" width="282px"/>
+<img src="ScreentShots/6.png" align="center" height="500px" width="500px"/>
 
 ### Resources:
 Lombok
